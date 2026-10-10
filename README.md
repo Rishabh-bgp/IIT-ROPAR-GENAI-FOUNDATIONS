@@ -8,9 +8,11 @@
 
 > **Free open-source Generative AI ebooks and practical guides (2026 edition)** — beginner-friendly "For Dummies" resources covering Claude, Grok, Gemini, Cursor, Replit, OpenAI, Meta AI, coding agents, vibe coding, and more. Perfect for AI enthusiasts, students, researchers, and builders.
 
+**AI Bros are welcomed to read this to enhance their knowledge at no cost.**
+
 **Keywords:** Generative AI, AI tools, AI ebooks, Claude AI, Grok AI, Gemini AI, Cursor AI, OpenAI, Meta AI, AI agents, vibe coding, prompt engineering, AI education, IIT Ropar, open source AI, AI workshop notes, AI for beginners, AI coding tools 2026.
 
-This repository collects beginner-friendly "For Dummies" style ebooks (2026 edition) covering the modern Generative AI ecosystem. These guides originated from an offline workshop on AI tools that I attended at IIT Ropar. I documented the full three days of learning in the form of these practical ebooks so that the knowledge could be shared beyond the classroom. The collection is now fully open-sourced under the MIT License so anyone can learn, share, remix, and contribute.
+This repository contains a total of **18 beginner-friendly "For Dummies" style ebooks** (2026 edition) covering the modern Generative AI ecosystem. These guides originated from an offline workshop on AI tools that I attended at IIT Ropar. I documented the full three days of learning in the form of these practical ebooks so that the knowledge could be shared beyond the classroom. The collection is now fully open-sourced under the MIT License so anyone can learn, share, remix, and contribute.
 
 The ebooks are organized into clear category folders for easy navigation.
 
@@ -167,4 +169,4 @@ Location: Bihar, India
 
 **Star this repository** if it helps you level up your GenAI game. Fork it, make it better, and help the next wave of AI builders.
 
-*Built for AI enthusiasts and AI bros, by someone who believes open knowledge accelerates everyone. Free Generative AI foundations ebooks from IIT Ropar workshop.*
+*Built for AI enthusiasts and AI bros, by someone who believes open knowledge accelerates everyone. AI Bros are welcomed to read these free Generative AI foundations ebooks from the IIT Ropar workshop to enhance their knowledge at no cost.*
