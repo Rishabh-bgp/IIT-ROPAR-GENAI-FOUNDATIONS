@@ -7,11 +7,12 @@
 
 > **Open-source resource hub** for Generative AI foundations, tools, and practical guides — curated for AI enthusiasts, students, researchers, builders, and AI bros everywhere.
 
-This repository collects beginner-friendly "For Dummies" style guides (2026 edition) covering the modern Generative AI ecosystem. Originally assembled in the context of IIT Ropar's Generative AI initiatives and the Pre-AI Summit, it is now fully open-sourced under the MIT License so anyone can learn, share, remix, and contribute.
+This repository collects beginner-friendly "For Dummies" style ebooks (2026 edition) covering the modern Generative AI ecosystem. These guides originated from an offline workshop on AI tools that I attended at IIT Ropar. I documented the full three days of learning in the form of these practical ebooks so that the knowledge could be shared beyond the classroom. The collection is now fully open-sourced under the MIT License so anyone can learn, share, remix, and contribute.
 
 ## Table of Contents
 
 - [Why This Exists](#why-this-exists)
+- [Origin Story](#origin-story)
 - [What's Inside](#whats-inside)
 - [Resource Catalog](#resource-catalog)
 - [Suggested Learning Path](#suggested-learning-path)
@@ -27,9 +28,15 @@ Generative AI is evolving at breakneck speed. New tools, agents, coding assistan
 
 These guides distill key platforms and workflows into accessible formats. Whether you are preparing for an AI course, building side projects, or simply want to understand what Claude, Grok, Gemini, Cursor, Replit, and the rest can actually do in 2026, this collection is for you.
 
+## Origin Story
+
+I attended an offline workshop on AI tools at the Indian Institute of Technology Ropar (IIT Ropar). Over three intensive days, the sessions covered a wide range of modern Generative AI platforms, coding agents, creative tools, and practical workflows.
+
+To solidify my own learning and to make the material useful for others, I systematically documented everything into a series of beginner-friendly ebooks. Each guide focuses on a specific tool or ecosystem in an accessible "For Dummies" style. What began as personal notes from the workshop has grown into this open-source collection, freely available for AI enthusiasts, students, and builders worldwide.
+
 ## What's Inside
 
-- **18 practical PDF guides** covering major AI tools, coding agents, image/video platforms, and ecosystems.
+- **18 practical PDF ebooks** covering major AI tools, coding agents, image/video platforms, and ecosystems.
 - Focus on *hands-on foundations*: prompting, vibe coding, agent workflows, and tool-specific best practices.
 - Designed to be readable, shareable, and useful for self-study or classroom support.
 - Fully open source — fork it, improve it, translate it, or build upon it.
@@ -104,7 +111,7 @@ Location: Bihar, India
 
 ## Acknowledgements
 
-- IIT Ropar School of AI and Data Engineering (sAIDE) and the Pre-AI Summit community for the inspirational context.
+- IIT Ropar and the organizers of the offline AI tools workshop for the valuable learning experience.
 - The broader open-source AI community for the rapid innovation these guides document.
 - Every AI enthusiast and builder who will use, improve, and share these resources.
 
