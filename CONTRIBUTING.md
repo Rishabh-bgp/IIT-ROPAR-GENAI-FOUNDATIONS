@@ -2,24 +2,35 @@
 
 Thank you for your interest in contributing! This repository is an open-source collection of practical Generative AI guides aimed at students, enthusiasts, and builders. We welcome contributions of all kinds.
 
+## Repository Structure
+
+Ebooks are organized into category folders:
+
+- `ecosystems/` — Major platforms (OpenAI, Gemini, Meta, Claude)
+- `agents/` — Conversational AI and agent frameworks
+- `coding-tools/` — AI coding IDEs, builders, and vibe coding
+- `creative-specialized/` — Creative, analysis, and niche tools
+
+When adding new guides, place them in the appropriate folder and update the main README catalog.
+
 ## Ways to Contribute
 
 1. **Improve existing guides**  
    - Report issues with PDF content (typos, outdated info, unclear explanations).  
-   - If you have access to editable source (e.g., original Markdown or design files), submit updates via PR.
+   - If you have access to editable source, submit updates via PR.
 
 2. **Add new resources**  
    - Create new "For Dummies" style guides for emerging AI tools (2026+).  
+   - Place the PDF in the correct category folder.  
    - Prefer PDF or high-quality Markdown. Keep the accessible, practical tone.
 
 3. **Enhance documentation**  
-   - Expand the README, add summaries, learning paths, or quizzes.  
+   - Expand the README, category READMEs, or add summaries.  
    - Create companion notebooks, prompt libraries, or translated versions.
 
 4. **Technical improvements**  
-   - Add GitHub Pages for a nicer browsing experience.  
-   - Improve repository structure (e.g., move PDFs into a `resources/` folder if feasible).  
-   - Add CI checks or automated PDF validation.
+   - Improve repository structure or GitHub Pages experience.  
+   - Add CI checks or automated validation.
 
 5. **Community**  
    - Star the repo, share it with other AI enthusiasts.  

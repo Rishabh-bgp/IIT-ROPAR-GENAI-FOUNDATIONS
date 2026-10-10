@@ -12,11 +12,13 @@
 
 This repository collects beginner-friendly "For Dummies" style ebooks (2026 edition) covering the modern Generative AI ecosystem. These guides originated from an offline workshop on AI tools that I attended at IIT Ropar. I documented the full three days of learning in the form of these practical ebooks so that the knowledge could be shared beyond the classroom. The collection is now fully open-sourced under the MIT License so anyone can learn, share, remix, and contribute.
 
+The ebooks are organized into clear category folders for easy navigation.
+
 ## Table of Contents
 
 - [Why This Exists](#why-this-exists)
 - [Origin Story](#origin-story)
-- [What's Inside](#whats-inside)
+- [Repository Structure](#repository-structure)
 - [Resource Catalog](#resource-catalog)
 - [Suggested Learning Path](#suggested-learning-path)
 - [How to Use These Resources](#how-to-use-these-resources)
@@ -38,72 +40,106 @@ I attended an offline workshop on AI tools at the Indian Institute of Technology
 
 To solidify my own learning and to make the material useful for others, I systematically documented everything into a series of beginner-friendly ebooks. Each guide focuses on a specific tool or ecosystem in an accessible "For Dummies" style. What began as personal notes from the IIT Ropar AI workshop has grown into this open-source collection of Generative AI foundations, freely available for AI enthusiasts, students, and builders worldwide.
 
-## What's Inside
+## Repository Structure
 
-- **18 practical PDF ebooks** covering major AI tools, coding agents, image/video platforms, and ecosystems.
-- Focus on *hands-on foundations*: prompting, vibe coding, agent workflows, and tool-specific best practices.
-- Designed to be readable, shareable, and useful for self-study or classroom support.
-- Fully open source — fork it, improve it, translate it, or build upon it.
-
-All PDFs are organized into category folders (ecosystems, agents, coding-tools, creative-specialized) for better navigation and are verified to be readable (non-encrypted, multi-page documents). Click any link below to view or download.
+```
+├── ecosystems/                  # Major AI platforms and their ecosystems
+│   ├── Claude_and_Claude_Code_For_Dummies_2026.pdf
+│   ├── Gemini_Ecosystem_For_Dummies_2026.pdf
+│   ├── Meta_AI_Ecosystem_For_Dummies_2026.pdf
+│   └── OpenAI_Ecosystem_For_Dummies_2026.pdf
+├── agents/                      # Conversational AI and agent frameworks
+│   ├── Grok_Bot_For_Dummies_2026.pdf
+│   ├── Grok_Build_For_Dummies_2026.pdf
+│   ├── Hermes_Agent_For_Dummies_2026_Edition.pdf
+│   └── SuperGrok_For_Dummies_2026_Edition.pdf
+├── coding-tools/                # AI coding IDEs, builders, and vibe coding
+│   ├── Codex_For_Dummies_2026.pdf
+│   ├── Cursor_for_Cavemen_2026.pdf
+│   ├── Lovable_for_Cavemen_2026.pdf
+│   └── Vibe_Coding_with_Replit_For_Dummies_2026.pdf
+├── creative-specialized/        # Creative, analysis, and niche tools
+│   ├── Base44_For_Dummies_2026_Edition.pdf
+│   ├── Higgsfield_For_Dummies_2026.pdf
+│   ├── Julius_AI_For_Dummies_2026.pdf
+│   ├── OpenArt_For_Dummies_2026.pdf
+│   ├── OpenClaw_For_Dummies_2026.pdf
+│   └── Rosebud_AI_For_Dummies_2026.pdf
+├── README.md
+├── index.html
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── LICENSE
+```
 
 ## Resource Catalog
 
-| Guide | Focus Area | Description | Direct Link |
-|-------|------------|-------------|-------------|
-| Base44 For Dummies 2026 | Platform / Tooling | Beginner guide to Base44 AI platform and tooling workflows | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/Base44_For_Dummies_2026_Edition.pdf) |
-| Claude and Claude Code For Dummies 2026 | Anthropic Claude + Coding | Complete introduction to Claude AI and Claude Code for coding tasks | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/ecosystems/ecosystems/Claude_and_Claude_Code_For_Dummies_2026.pdf) |
-| Codex For Dummies 2026 | OpenAI Codex / Coding Agents | Practical guide to OpenAI Codex and AI coding agents | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/coding-tools/coding-tools/Codex_For_Dummies_2026.pdf) |
-| Cursor for Cavemen 2026 | Cursor AI IDE | Hands-on guide to Cursor AI IDE for developers | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/coding-tools/coding-tools/Cursor_for_Cavemen_2026.pdf) |
-| Gemini Ecosystem For Dummies 2026 | Google Gemini Suite | Overview of Google Gemini AI ecosystem and tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/ecosystems/ecosystems/Gemini_Ecosystem_For_Dummies_2026.pdf) |
-| Grok Bot For Dummies 2026 | xAI Grok (Conversational) | Beginner guide to Grok AI conversational capabilities | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/agents/agents/Grok_Bot_For_Dummies_2026.pdf) |
-| Grok Build For Dummies 2026 | xAI Grok Building / Agents | Guide to building with Grok AI and agents | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/agents/agents/Grok_Build_For_Dummies_2026.pdf) |
-| Hermes Agent For Dummies 2026 | Hermes Agent Framework | Introduction to Hermes Agent AI framework | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/agents/agents/Hermes_Agent_For_Dummies_2026_Edition.pdf) |
-| Higgsfield For Dummies 2026 | Higgsfield (Creative AI) | Beginner guide to Higgsfield creative AI tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/Higgsfield_For_Dummies_2026.pdf) |
-| Julius AI For Dummies 2026 | Julius AI (Data / Analysis) | Practical guide to Julius AI for data analysis | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/Julius_AI_For_Dummies_2026.pdf) |
-| Lovable for Cavemen 2026 | Lovable (App Builder) | Hands-on introduction to Lovable AI app builder | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/coding-tools/coding-tools/Lovable_for_Cavemen_2026.pdf) |
-| Meta AI Ecosystem For Dummies 2026 | Meta Llama / AI Tools | Overview of Meta AI and Llama ecosystem | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/ecosystems/ecosystems/Meta_AI_Ecosystem_For_Dummies_2026.pdf) |
-| OpenAI Ecosystem For Dummies 2026 | OpenAI GPT / Platform | Complete guide to OpenAI platform and GPT tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/ecosystems/ecosystems/OpenAI_Ecosystem_For_Dummies_2026.pdf) |
-| OpenArt For Dummies 2026 | OpenArt (Generative Art) | Beginner guide to OpenArt generative art tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/OpenArt_For_Dummies_2026.pdf) |
-| OpenClaw For Dummies 2026 | OpenClaw | Introduction to OpenClaw AI platform | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/OpenClaw_For_Dummies_2026.pdf) |
-| Rosebud AI For Dummies 2026 | Rosebud AI | Practical guide to Rosebud AI tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/Rosebud_AI_For_Dummies_2026.pdf) |
-| SuperGrok For Dummies 2026 | SuperGrok (Advanced Grok) | Advanced guide to SuperGrok capabilities | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/agents/agents/SuperGrok_For_Dummies_2026_Edition.pdf) |
-| Vibe Coding with Replit For Dummies 2026 | Replit + Vibe Coding | Hands-on guide to vibe coding using Replit AI | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/coding-tools/coding-tools/Vibe_Coding_with_Replit_For_Dummies_2026.pdf) |
+### Ecosystems
+| Guide | Description | Link |
+|-------|-------------|------|
+| Claude and Claude Code For Dummies 2026 | Complete introduction to Claude AI and Claude Code for coding tasks | [View PDF](ecosystems/Claude_and_Claude_Code_For_Dummies_2026.pdf) |
+| Gemini Ecosystem For Dummies 2026 | Overview of Google Gemini AI ecosystem and tools | [View PDF](ecosystems/Gemini_Ecosystem_For_Dummies_2026.pdf) |
+| Meta AI Ecosystem For Dummies 2026 | Overview of Meta AI and Llama ecosystem | [View PDF](ecosystems/Meta_AI_Ecosystem_For_Dummies_2026.pdf) |
+| OpenAI Ecosystem For Dummies 2026 | Complete guide to OpenAI platform and GPT tools | [View PDF](ecosystems/OpenAI_Ecosystem_For_Dummies_2026.pdf) |
 
-> **Tip:** On GitHub, clicking a PDF link opens the file viewer. Use the Download button for offline reading. All files are under 1 MB and open cleanly. Free downloadable AI tool guides for 2026.
+### Agents & Conversational AI
+| Guide | Description | Link |
+|-------|-------------|------|
+| Grok Bot For Dummies 2026 | Beginner guide to Grok AI conversational capabilities | [View PDF](agents/Grok_Bot_For_Dummies_2026.pdf) |
+| Grok Build For Dummies 2026 | Guide to building with Grok AI and agents | [View PDF](agents/Grok_Build_For_Dummies_2026.pdf) |
+| Hermes Agent For Dummies 2026 | Introduction to Hermes Agent AI framework | [View PDF](agents/Hermes_Agent_For_Dummies_2026_Edition.pdf) |
+| SuperGrok For Dummies 2026 | Advanced guide to SuperGrok capabilities | [View PDF](agents/SuperGrok_For_Dummies_2026_Edition.pdf) |
+
+### Coding Tools & Builders
+| Guide | Description | Link |
+|-------|-------------|------|
+| Codex For Dummies 2026 | Practical guide to OpenAI Codex and AI coding agents | [View PDF](coding-tools/Codex_For_Dummies_2026.pdf) |
+| Cursor for Cavemen 2026 | Hands-on guide to Cursor AI IDE for developers | [View PDF](coding-tools/Cursor_for_Cavemen_2026.pdf) |
+| Lovable for Cavemen 2026 | Hands-on introduction to Lovable AI app builder | [View PDF](coding-tools/Lovable_for_Cavemen_2026.pdf) |
+| Vibe Coding with Replit For Dummies 2026 | Hands-on guide to vibe coding using Replit AI | [View PDF](coding-tools/Vibe_Coding_with_Replit_For_Dummies_2026.pdf) |
+
+### Creative & Specialized Tools
+| Guide | Description | Link |
+|-------|-------------|------|
+| Base44 For Dummies 2026 | Beginner guide to Base44 AI platform and tooling workflows | [View PDF](creative-specialized/Base44_For_Dummies_2026_Edition.pdf) |
+| Higgsfield For Dummies 2026 | Beginner guide to Higgsfield creative AI tools | [View PDF](creative-specialized/Higgsfield_For_Dummies_2026.pdf) |
+| Julius AI For Dummies 2026 | Practical guide to Julius AI for data analysis | [View PDF](creative-specialized/Julius_AI_For_Dummies_2026.pdf) |
+| OpenArt For Dummies 2026 | Beginner guide to OpenArt generative art tools | [View PDF](creative-specialized/OpenArt_For_Dummies_2026.pdf) |
+| OpenClaw For Dummies 2026 | Introduction to OpenClaw AI platform | [View PDF](creative-specialized/OpenClaw_For_Dummies_2026.pdf) |
+| Rosebud AI For Dummies 2026 | Practical guide to Rosebud AI tools | [View PDF](creative-specialized/Rosebud_AI_For_Dummies_2026.pdf) |
+
+> **Tip:** Click any link to view or download the PDF. All files open cleanly in standard viewers.
 
 ## Suggested Learning Path
 
-1. **Foundations & Ecosystems** — Start with OpenAI Ecosystem, Gemini Ecosystem, Meta AI Ecosystem, and Claude guides to understand the major platforms.
-2. **Conversational & Agent AI** — Move to Grok Bot, SuperGrok, Hermes Agent, and related agent frameworks.
-3. **Coding & Building** — Dive into Cursor, Codex, Claude Code, Vibe Coding with Replit, Lovable, and Grok Build.
-4. **Creative & Specialized Tools** — Explore OpenArt, Higgsfield, Julius AI, Rosebud, Base44, and others for domain-specific workflows.
-5. **Practice** — Apply concepts by building small projects, prompting experiments, or contributing improvements back to this repo.
+1. **Foundations & Ecosystems** — Start with the [ecosystems](ecosystems/) folder (OpenAI, Gemini, Meta, Claude).
+2. **Conversational & Agent AI** — Move to the [agents](agents/) folder (Grok, SuperGrok, Hermes).
+3. **Coding & Building** — Dive into the [coding-tools](coding-tools/) folder (Cursor, Codex, Lovable, Replit).
+4. **Creative & Specialized Tools** — Explore the [creative-specialized](creative-specialized/) folder.
+5. **Practice** — Apply concepts by building small projects or contributing improvements.
 
 ## How to Use These Resources
 
-- **Self-study:** Download the free AI ebooks that match your current interest and work through them sequentially.
-- **Classroom / Workshop:** Use as supplementary reading for Generative AI courses or hackathons (e.g., IIT Ropar-style events).
-- **Team onboarding:** Share specific guides with engineers adopting new AI coding tools.
+- **Self-study:** Browse the category folders and download the free AI ebooks that match your interest.
+- **Classroom / Workshop:** Use as supplementary reading for Generative AI courses or hackathons.
+- **Team onboarding:** Share specific category folders with engineers adopting new AI tools.
 - **Remix:** Extract key ideas, create summaries, notebooks, or translated versions and submit a PR.
 
 ## Hashtags & Topics
 
-Use these for discoverability (add as GitHub topics on the repository):
-
 #GenerativeAI #AITools #AIEbooks #ClaudeAI #GrokAI #GeminiAI #CursorAI #OpenAI #MetaAI #AIAgents #VibeCoding #PromptEngineering #AIEducation #IITRopar #OpenSourceAI #AIForBeginners #AIWorkshop #AICodingTools #GenAI #AIFoundations #FreeAIResources #AI2026
 
-**Recommended GitHub Topics:** generative-ai, ai-tools, ai-education, open-source, iit-ropar, claude, grok, gemini, cursor, openai, meta-ai, ai-agents, vibe-coding, prompt-engineering, ai-ebooks, genai-foundations
+**Recommended GitHub Topics:** `generative-ai` `ai-tools` `ai-education` `open-source` `iit-ropar` `claude` `grok` `gemini` `cursor` `openai` `meta-ai` `ai-agents` `vibe-coding` `prompt-engineering` `ai-ebooks` `genai-foundations`
 
 ## Contributing
 
 This is a living open-source resource. Contributions are very welcome!
 
-- Fix typos or improve clarity in any guide (if you have the source).
-- Add new 2026+ tool guides in the same accessible style.
+- Fix typos or improve clarity in any guide.
+- Add new 2026+ tool guides in the same accessible style (place them in the appropriate category folder).
 - Create markdown summaries, quizzes, or companion Jupyter notebooks.
 - Translate guides into other languages.
-- Improve this README, add a website (GitHub Pages), or build an interactive catalog.
+- Improve documentation or the category organization.
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. All contributions are licensed under MIT.
 
