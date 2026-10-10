@@ -45,30 +45,30 @@ To solidify my own learning and to make the material useful for others, I system
 - Designed to be readable, shareable, and useful for self-study or classroom support.
 - Fully open source — fork it, improve it, translate it, or build upon it.
 
-All PDFs are hosted directly in this repository and are verified to be readable (non-encrypted, multi-page documents). Click any link below to view or download.
+All PDFs are organized into category folders (ecosystems, agents, coding-tools, creative-specialized) for better navigation and are verified to be readable (non-encrypted, multi-page documents). Click any link below to view or download.
 
 ## Resource Catalog
 
 | Guide | Focus Area | Description | Direct Link |
 |-------|------------|-------------|-------------|
-| Base44 For Dummies 2026 | Platform / Tooling | Beginner guide to Base44 AI platform and tooling workflows | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Base44_For_Dummies_2026_Edition.pdf) |
-| Claude and Claude Code For Dummies 2026 | Anthropic Claude + Coding | Complete introduction to Claude AI and Claude Code for coding tasks | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Claude_and_Claude_Code_For_Dummies_2026.pdf) |
-| Codex For Dummies 2026 | OpenAI Codex / Coding Agents | Practical guide to OpenAI Codex and AI coding agents | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Codex_For_Dummies_2026.pdf) |
-| Cursor for Cavemen 2026 | Cursor AI IDE | Hands-on guide to Cursor AI IDE for developers | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Cursor_for_Cavemen_2026.pdf) |
-| Gemini Ecosystem For Dummies 2026 | Google Gemini Suite | Overview of Google Gemini AI ecosystem and tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Gemini_Ecosystem_For_Dummies_2026.pdf) |
-| Grok Bot For Dummies 2026 | xAI Grok (Conversational) | Beginner guide to Grok AI conversational capabilities | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Grok_Bot_For_Dummies_2026.pdf) |
-| Grok Build For Dummies 2026 | xAI Grok Building / Agents | Guide to building with Grok AI and agents | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Grok_Build_For_Dummies_2026.pdf) |
-| Hermes Agent For Dummies 2026 | Hermes Agent Framework | Introduction to Hermes Agent AI framework | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Hermes_Agent_For_Dummies_2026_Edition.pdf) |
-| Higgsfield For Dummies 2026 | Higgsfield (Creative AI) | Beginner guide to Higgsfield creative AI tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Higgsfield_For_Dummies_2026.pdf) |
-| Julius AI For Dummies 2026 | Julius AI (Data / Analysis) | Practical guide to Julius AI for data analysis | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Julius_AI_For_Dummies_2026.pdf) |
-| Lovable for Cavemen 2026 | Lovable (App Builder) | Hands-on introduction to Lovable AI app builder | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Lovable_for_Cavemen_2026.pdf) |
-| Meta AI Ecosystem For Dummies 2026 | Meta Llama / AI Tools | Overview of Meta AI and Llama ecosystem | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Meta_AI_Ecosystem_For_Dummies_2026.pdf) |
-| OpenAI Ecosystem For Dummies 2026 | OpenAI GPT / Platform | Complete guide to OpenAI platform and GPT tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/OpenAI_Ecosystem_For_Dummies_2026.pdf) |
-| OpenArt For Dummies 2026 | OpenArt (Generative Art) | Beginner guide to OpenArt generative art tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/OpenArt_For_Dummies_2026.pdf) |
-| OpenClaw For Dummies 2026 | OpenClaw | Introduction to OpenClaw AI platform | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/OpenClaw_For_Dummies_2026.pdf) |
-| Rosebud AI For Dummies 2026 | Rosebud AI | Practical guide to Rosebud AI tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Rosebud_AI_For_Dummies_2026.pdf) |
-| SuperGrok For Dummies 2026 | SuperGrok (Advanced Grok) | Advanced guide to SuperGrok capabilities | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/SuperGrok_For_Dummies_2026_Edition.pdf) |
-| Vibe Coding with Replit For Dummies 2026 | Replit + Vibe Coding | Hands-on guide to vibe coding using Replit AI | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/Vibe_Coding_with_Replit_For_Dummies_2026.pdf) |
+| Base44 For Dummies 2026 | Platform / Tooling | Beginner guide to Base44 AI platform and tooling workflows | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/Base44_For_Dummies_2026_Edition.pdf) |
+| Claude and Claude Code For Dummies 2026 | Anthropic Claude + Coding | Complete introduction to Claude AI and Claude Code for coding tasks | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/ecosystems/ecosystems/Claude_and_Claude_Code_For_Dummies_2026.pdf) |
+| Codex For Dummies 2026 | OpenAI Codex / Coding Agents | Practical guide to OpenAI Codex and AI coding agents | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/coding-tools/coding-tools/Codex_For_Dummies_2026.pdf) |
+| Cursor for Cavemen 2026 | Cursor AI IDE | Hands-on guide to Cursor AI IDE for developers | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/coding-tools/coding-tools/Cursor_for_Cavemen_2026.pdf) |
+| Gemini Ecosystem For Dummies 2026 | Google Gemini Suite | Overview of Google Gemini AI ecosystem and tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/ecosystems/ecosystems/Gemini_Ecosystem_For_Dummies_2026.pdf) |
+| Grok Bot For Dummies 2026 | xAI Grok (Conversational) | Beginner guide to Grok AI conversational capabilities | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/agents/agents/Grok_Bot_For_Dummies_2026.pdf) |
+| Grok Build For Dummies 2026 | xAI Grok Building / Agents | Guide to building with Grok AI and agents | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/agents/agents/Grok_Build_For_Dummies_2026.pdf) |
+| Hermes Agent For Dummies 2026 | Hermes Agent Framework | Introduction to Hermes Agent AI framework | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/agents/agents/Hermes_Agent_For_Dummies_2026_Edition.pdf) |
+| Higgsfield For Dummies 2026 | Higgsfield (Creative AI) | Beginner guide to Higgsfield creative AI tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/Higgsfield_For_Dummies_2026.pdf) |
+| Julius AI For Dummies 2026 | Julius AI (Data / Analysis) | Practical guide to Julius AI for data analysis | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/Julius_AI_For_Dummies_2026.pdf) |
+| Lovable for Cavemen 2026 | Lovable (App Builder) | Hands-on introduction to Lovable AI app builder | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/coding-tools/coding-tools/Lovable_for_Cavemen_2026.pdf) |
+| Meta AI Ecosystem For Dummies 2026 | Meta Llama / AI Tools | Overview of Meta AI and Llama ecosystem | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/ecosystems/ecosystems/Meta_AI_Ecosystem_For_Dummies_2026.pdf) |
+| OpenAI Ecosystem For Dummies 2026 | OpenAI GPT / Platform | Complete guide to OpenAI platform and GPT tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/ecosystems/ecosystems/OpenAI_Ecosystem_For_Dummies_2026.pdf) |
+| OpenArt For Dummies 2026 | OpenArt (Generative Art) | Beginner guide to OpenArt generative art tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/OpenArt_For_Dummies_2026.pdf) |
+| OpenClaw For Dummies 2026 | OpenClaw | Introduction to OpenClaw AI platform | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/OpenClaw_For_Dummies_2026.pdf) |
+| Rosebud AI For Dummies 2026 | Rosebud AI | Practical guide to Rosebud AI tools | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/creative-specialized/creative-specialized/Rosebud_AI_For_Dummies_2026.pdf) |
+| SuperGrok For Dummies 2026 | SuperGrok (Advanced Grok) | Advanced guide to SuperGrok capabilities | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/agents/agents/SuperGrok_For_Dummies_2026_Edition.pdf) |
+| Vibe Coding with Replit For Dummies 2026 | Replit + Vibe Coding | Hands-on guide to vibe coding using Replit AI | [View PDF](https://github.com/Rishabh-bgp/IIT-ROPAR-GENAI-FOUNDATIONS/blob/main/coding-tools/coding-tools/Vibe_Coding_with_Replit_For_Dummies_2026.pdf) |
 
 > **Tip:** On GitHub, clicking a PDF link opens the file viewer. Use the Download button for offline reading. All files are under 1 MB and open cleanly. Free downloadable AI tool guides for 2026.
 
