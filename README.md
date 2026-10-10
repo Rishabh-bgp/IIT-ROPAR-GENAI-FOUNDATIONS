@@ -8,7 +8,7 @@
 
 > **Free open-source Generative AI ebooks and practical guides (2026 edition)** — beginner-friendly "For Dummies" resources covering Claude, Grok, Gemini, Cursor, Replit, OpenAI, Meta AI, coding agents, vibe coding, and more. Perfect for AI enthusiasts, students, researchers, and builders.
 
-**Yo AI Bros!! Pull up and level up your GenAI knowledge for absolutely FREE — no cost, no cap, just pure alpha. Let's get that bag of knowledge!! 🚀🔥**
+**Attention all certified AI Bros (and future legends)!! This is your ZERO-COST, no-gatekeeping, pure-vibe GenAI knowledge injection. Pull up, lock in, secure the free alpha bag, and absolutely send it. No cap, no cope, just levels. Let's goooo!! 🚀🔥💯👑📈**
 
 **Keywords:** Generative AI, AI tools, AI ebooks, Claude AI, Grok AI, Gemini AI, Cursor AI, OpenAI, Meta AI, AI agents, vibe coding, prompt engineering, AI education, IIT Ropar, open source AI, AI workshop notes, AI for beginners, AI coding tools 2026.
 
@@ -169,4 +169,4 @@ Location: Bihar, India
 
 **Star this repository** if it helps you level up your GenAI game. Fork it, make it better, and help the next wave of AI builders.
 
-*Built for AI enthusiasts and AI bros, by someone who believes open knowledge accelerates everyone. Yo AI Bros!! Come through and enhance your knowledge at zero cost — free GenAI ebooks from the IIT Ropar workshop, no gatekeeping, just vibes. Let's gooo!! 🔥*
+*Built for AI enthusiasts and AI bros, by someone who believes open knowledge accelerates everyone. Attention all certified AI Bros!! Come through and inject this free GenAI knowledge at zero cost — IIT Ropar workshop ebooks, no gatekeeping, pure vibes, let's absolutely send it!! 🚀🔥💯*
